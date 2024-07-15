@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\KJH\\CsharpDeepening\\structPractice\\",
+  "WorkspaceRootPath": "C:\\KJH\\CsharpDeepening\\struct_arrowFunctionPrac\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{839A3C33-52B7-4499-94A4-5F2540C9C7F3}|structPractice\\structPractice.csproj|c:\\kjh\\csharpdeepening\\structpractice\\structpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{839A3C33-52B7-4499-94A4-5F2540C9C7F3}|structPractice\\structPractice.csproj|c:\\kjh\\csharpdeepening\\struct_arrowfunctionprac\\structpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{839A3C33-52B7-4499-94A4-5F2540C9C7F3}|structPractice\\structPractice.csproj|solutionrelative:structpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{839A3C33-52B7-4499-94A4-5F2540C9C7F3}|structPractice\\structPractice.csproj|C:\\KJH\\CsharpDeepening\\structPractice\\structpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{72D5A0C5-1512-4125-AAC9-421F32929CB7}|ClassLibraryPractice\\ClassLibraryPractice.csproj|c:\\kjh\\csharpdeepening\\struct_arrowfunctionprac\\classlibrarypractice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5A0C5-1512-4125-AAC9-421F32929CB7}|ClassLibraryPractice\\ClassLibraryPractice.csproj|solutionrelative:classlibrarypractice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839A3C33-52B7-4499-94A4-5F2540C9C7F3}|structPractice\\structPractice.csproj|C:\\KJH\\CsharpDeepening\\struct_arrowFunctionPrac\\structpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{839A3C33-52B7-4499-94A4-5F2540C9C7F3}|structPractice\\structPractice.csproj|solutionrelative:structpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,27 +54,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\struct_arrowFunctionPrac\\ClassLibraryPractice\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibraryPractice\\Class1.cs",
+              "ToolTip": "C:\\KJH\\CsharpDeepening\\struct_arrowFunctionPrac\\ClassLibraryPractice\\Class1.cs",
+              "RelativeToolTip": "ClassLibraryPractice\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T02:43:41.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\structPractice\\structPractice\\Form1.cs",
+              "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\struct_arrowFunctionPrac\\structPractice\\Form1.cs",
               "RelativeDocumentMoniker": "structPractice\\Form1.cs",
-              "ToolTip": "C:\\KJH\\CsharpDeepening\\structPractice\\structPractice\\Form1.cs",
+              "ToolTip": "C:\\KJH\\CsharpDeepening\\struct_arrowFunctionPrac\\structPractice\\Form1.cs",
               "RelativeToolTip": "structPractice\\Form1.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAcwDgAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T00:14:17.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\structPractice\\structPractice\\Form1.cs",
+              "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\struct_arrowFunctionPrac\\structPractice\\Form1.cs",
               "RelativeDocumentMoniker": "structPractice\\Form1.cs",
-              "ToolTip": "C:\\Users\\jongho\\source\\repos\\structPractice\\structPractice\\Form1.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "..\\..\\..\\Users\\jongho\\source\\repos\\structPractice\\structPractice\\Form1.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\KJH\\CsharpDeepening\\struct_arrowFunctionPrac\\structPractice\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "structPractice\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T00:14:05.06Z"
+              "WhenOpened": "2024-07-15T00:14:05.06Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
         }

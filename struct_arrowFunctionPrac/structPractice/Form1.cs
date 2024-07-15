@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ClassLibraryPractice;
 
 namespace structPractice
 {
@@ -47,10 +48,19 @@ namespace structPractice
             Hi();
             textBox1.Text += Add(4, 2).ToString();
 
+            Class1 class1 = new Class1();
+            class1.a = 1;
+            class1.b = 2;
+
         }
 
         void Hi() => textBox1.Text += "Hi\r\n";
 
         int Add(int a, int b) => a + b; //arrow 함수는 마지막 줄이 return된다.
+
+       
+        
+        
+
     }
 }

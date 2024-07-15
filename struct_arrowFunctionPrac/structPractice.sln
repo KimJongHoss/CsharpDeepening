@@ -4,6 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structPractice", "structPractice\structPractice.csproj", "{839A3C33-52B7-4499-94A4-5F2540C9C7F3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{72D5A0C5-1512-4125-AAC9-421F32929CB7} = {72D5A0C5-1512-4125-AAC9-421F32929CB7}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryPractice", "ClassLibraryPractice\ClassLibraryPractice.csproj", "{72D5A0C5-1512-4125-AAC9-421F32929CB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +20,10 @@ Global
 		{839A3C33-52B7-4499-94A4-5F2540C9C7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{839A3C33-52B7-4499-94A4-5F2540C9C7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{839A3C33-52B7-4499-94A4-5F2540C9C7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D5A0C5-1512-4125-AAC9-421F32929CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D5A0C5-1512-4125-AAC9-421F32929CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D5A0C5-1512-4125-AAC9-421F32929CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D5A0C5-1512-4125-AAC9-421F32929CB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
