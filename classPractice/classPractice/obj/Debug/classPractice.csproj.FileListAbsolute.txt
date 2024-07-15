@@ -8,3 +8,13 @@ C:\Users\jongho\source\repos\classPractice\classPractice\obj\Debug\classPractice
 C:\Users\jongho\source\repos\classPractice\classPractice\obj\Debug\classPractice.csproj.CoreCompileInputs.cache
 C:\Users\jongho\source\repos\classPractice\classPractice\obj\Debug\classPractice.exe
 C:\Users\jongho\source\repos\classPractice\classPractice\obj\Debug\classPractice.pdb
+C:\KJH\CsharpDeepening\classPractice\classPractice\bin\Debug\classPractice.exe.config
+C:\KJH\CsharpDeepening\classPractice\classPractice\bin\Debug\classPractice.exe
+C:\KJH\CsharpDeepening\classPractice\classPractice\bin\Debug\classPractice.pdb
+C:\KJH\CsharpDeepening\classPractice\classPractice\obj\Debug\classPractice.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\classPractice\classPractice\obj\Debug\classPractice.Form1.resources
+C:\KJH\CsharpDeepening\classPractice\classPractice\obj\Debug\classPractice.Properties.Resources.resources
+C:\KJH\CsharpDeepening\classPractice\classPractice\obj\Debug\classPractice.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\classPractice\classPractice\obj\Debug\classPractice.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\classPractice\classPractice\obj\Debug\classPractice.exe
+C:\KJH\CsharpDeepening\classPractice\classPractice\obj\Debug\classPractice.pdb
