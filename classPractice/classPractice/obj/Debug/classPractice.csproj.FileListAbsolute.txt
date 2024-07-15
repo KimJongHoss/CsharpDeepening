@@ -1,0 +1,10 @@
+C:\Users\jongho\source\repos\classPractice\classPractice\bin\Debug\classPractice.exe.config
+C:\Users\jongho\source\repos\classPractice\classPractice\bin\Debug\classPractice.exe
+C:\Users\jongho\source\repos\classPractice\classPractice\bin\Debug\classPractice.pdb
+C:\Users\jongho\source\repos\classPractice\classPractice\obj\Debug\classPractice.csproj.AssemblyReference.cache
+C:\Users\jongho\source\repos\classPractice\classPractice\obj\Debug\classPractice.Form1.resources
+C:\Users\jongho\source\repos\classPractice\classPractice\obj\Debug\classPractice.Properties.Resources.resources
+C:\Users\jongho\source\repos\classPractice\classPractice\obj\Debug\classPractice.csproj.GenerateResource.cache
+C:\Users\jongho\source\repos\classPractice\classPractice\obj\Debug\classPractice.csproj.CoreCompileInputs.cache
+C:\Users\jongho\source\repos\classPractice\classPractice\obj\Debug\classPractice.exe
+C:\Users\jongho\source\repos\classPractice\classPractice\obj\Debug\classPractice.pdb
