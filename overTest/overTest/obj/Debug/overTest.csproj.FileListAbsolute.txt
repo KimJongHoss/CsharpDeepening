@@ -1,0 +1,10 @@
+C:\KJH\CsharpDeepening\overTest\overTest\bin\Debug\overTest.exe.config
+C:\KJH\CsharpDeepening\overTest\overTest\bin\Debug\overTest.exe
+C:\KJH\CsharpDeepening\overTest\overTest\bin\Debug\overTest.pdb
+C:\KJH\CsharpDeepening\overTest\overTest\obj\Debug\overTest.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\overTest\overTest\obj\Debug\overTest.Form1.resources
+C:\KJH\CsharpDeepening\overTest\overTest\obj\Debug\overTest.Properties.Resources.resources
+C:\KJH\CsharpDeepening\overTest\overTest\obj\Debug\overTest.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\overTest\overTest\obj\Debug\overTest.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\overTest\overTest\obj\Debug\overTest.exe
+C:\KJH\CsharpDeepening\overTest\overTest\obj\Debug\overTest.pdb

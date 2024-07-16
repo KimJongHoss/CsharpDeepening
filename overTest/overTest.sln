@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overTest", "overTest\overTest.csproj", "{07EABAB0-D6C9-4C35-8260-D1D5E691B537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07EABAB0-D6C9-4C35-8260-D1D5E691B537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EABAB0-D6C9-4C35-8260-D1D5E691B537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EABAB0-D6C9-4C35-8260-D1D5E691B537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EABAB0-D6C9-4C35-8260-D1D5E691B537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0194E005-D299-4558-AB84-3BABE5EAC7AA}
+	EndGlobalSection
+EndGlobal
