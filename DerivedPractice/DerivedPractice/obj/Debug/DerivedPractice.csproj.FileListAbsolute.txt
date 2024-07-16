@@ -1,0 +1,10 @@
+C:\KJH\CsharpDeepening\DerivedPractice\DerivedPractice\bin\Debug\DerivedPractice.exe.config
+C:\KJH\CsharpDeepening\DerivedPractice\DerivedPractice\bin\Debug\DerivedPractice.exe
+C:\KJH\CsharpDeepening\DerivedPractice\DerivedPractice\bin\Debug\DerivedPractice.pdb
+C:\KJH\CsharpDeepening\DerivedPractice\DerivedPractice\obj\Debug\DerivedPractice.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\DerivedPractice\DerivedPractice\obj\Debug\DerivedPractice.Form1.resources
+C:\KJH\CsharpDeepening\DerivedPractice\DerivedPractice\obj\Debug\DerivedPractice.Properties.Resources.resources
+C:\KJH\CsharpDeepening\DerivedPractice\DerivedPractice\obj\Debug\DerivedPractice.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\DerivedPractice\DerivedPractice\obj\Debug\DerivedPractice.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\DerivedPractice\DerivedPractice\obj\Debug\DerivedPractice.exe
+C:\KJH\CsharpDeepening\DerivedPractice\DerivedPractice\obj\Debug\DerivedPractice.pdb

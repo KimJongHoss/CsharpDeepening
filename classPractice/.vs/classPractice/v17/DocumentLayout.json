@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\KJH\\CsharpDeepening\\classPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|c:\\kjh\\csharpdeepening\\classpractice\\classpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|solutionrelative:classpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|C:\\KJH\\CsharpDeepening\\classPractice\\classpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|solutionrelative:classpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|C:\\KJH\\CsharpDeepening\\classPractice\\classpractice\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|solutionrelative:classpractice\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|C:\\KJH\\CsharpDeepening\\classPractice\\classpractice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|solutionrelative:classpractice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|C:\\KJH\\CsharpDeepening\\classPractice\\classpractice\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|solutionrelative:classpractice\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|c:\\kjh\\csharpdeepening\\classpractice\\classpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|solutionrelative:classpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|C:\\KJH\\CsharpDeepening\\classPractice\\classpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|solutionrelative:classpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Class2.cs",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\classPractice\\classPractice\\Class2.cs",
               "RelativeDocumentMoniker": "classPractice\\Class2.cs",
@@ -66,36 +66,38 @@
               "RelativeToolTip": "classPractice\\Class2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T03:47:48.082Z"
+              "WhenOpened": "2024-07-15T03:47:48.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\classPractice\\classPractice\\Form1.cs",
               "RelativeDocumentMoniker": "classPractice\\Form1.cs",
               "ToolTip": "C:\\KJH\\CsharpDeepening\\classPractice\\classPractice\\Form1.cs",
               "RelativeToolTip": "classPractice\\Form1.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAowBQAAAAWAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T03:20:01.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\classPractice\\classPractice\\Class1.cs",
               "RelativeDocumentMoniker": "classPractice\\Class1.cs",
               "ToolTip": "C:\\KJH\\CsharpDeepening\\classPractice\\classPractice\\Class1.cs",
               "RelativeToolTip": "classPractice\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T03:19:30.433Z"
+              "WhenOpened": "2024-07-15T03:19:30.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\classPractice\\classPractice\\Form1.cs",
               "RelativeDocumentMoniker": "classPractice\\Form1.cs",
