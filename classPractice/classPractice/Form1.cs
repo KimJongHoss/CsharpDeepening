@@ -15,10 +15,23 @@ namespace classPractice
         public string Name { get; set; }
         public string Description { get; set; } = string.Empty;
 
+        private int _num;
+        private decimal _money;
+
         public int Num
         {
-            get { return Num; }
-            set { Num = value; }
+            get 
+            {
+               
+                return _num*2;
+                //return _num; 
+            }
+
+            set 
+            {
+                _num= value;
+                textBox1.Text += _num.ToString()+"\r\n";
+            }
         }
 
         public decimal Money
@@ -41,6 +54,14 @@ namespace classPractice
             { 
                 Square square = new Square();
                 //~Square(); 이렇게 부를수는 없다.
+
+                Num = 1; //set 사용
+                int a = Num; // get 사용
+                textBox1.Text += a.ToString() + "\r\n";
+
+                Num = 3;
+                a = Num; // get 사용
+                textBox1.Text += a.ToString() + "\r\n";
             }
         }
         ~Form1() 

@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|solutionrelative:classpractice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|c:\\kjh\\csharpdeepening\\classpractice\\classpractice\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|C:\\KJH\\CsharpDeepening\\classPractice\\classpractice\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2B7A51C-22A3-41E2-9C9A-AA162F00D3BC}|classPractice\\classPractice.csproj|solutionrelative:classpractice\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,8 +66,7 @@
               "RelativeToolTip": "classPractice\\Class2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T03:47:48.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T03:47:48.082Z"
             },
             {
               "$type": "Document",
@@ -77,7 +76,7 @@
               "RelativeDocumentMoniker": "classPractice\\Form1.cs",
               "ToolTip": "C:\\KJH\\CsharpDeepening\\classPractice\\classPractice\\Form1.cs",
               "RelativeToolTip": "classPractice\\Form1.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAkwA4AAAAoAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowBQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T03:20:01.103Z",
               "EditorCaption": ""
@@ -92,8 +91,7 @@
               "RelativeToolTip": "classPractice\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T03:19:30.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T03:19:30.433Z"
             },
             {
               "$type": "Document",
@@ -104,8 +102,7 @@
               "ToolTip": "C:\\KJH\\CsharpDeepening\\classPractice\\classPractice\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "classPractice\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T03:19:14.102Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2024-07-15T03:19:14.102Z"
             }
           ]
         }
