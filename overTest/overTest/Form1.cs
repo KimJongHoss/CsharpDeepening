@@ -24,9 +24,14 @@ namespace overTest
 
             Square square = new Square();
 
-            textBox1.Text = square.Say();
+            textBox1.Text += square.Say();
             textBox1.Text += square.Go();
             textBox1.Text += square.getShape();
+
+            Shape shape = new Shape();
+            textBox1.Text += shape.Say();
+            textBox1.Text += shape.Go();
+            textBox1.Text += shape.getShape();
 
         }
 

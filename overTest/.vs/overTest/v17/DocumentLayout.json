@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\KJH\\CsharpDeepening\\overTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07EABAB0-D6C9-4C35-8260-D1D5E691B537}|overTest\\overTest.csproj|C:\\KJH\\CsharpDeepening\\overTest\\overtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EABAB0-D6C9-4C35-8260-D1D5E691B537}|overTest\\overTest.csproj|solutionrelative:overtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07EABAB0-D6C9-4C35-8260-D1D5E691B537}|overTest\\overTest.csproj|c:\\kjh\\csharpdeepening\\overtest\\overtest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07EABAB0-D6C9-4C35-8260-D1D5E691B537}|overTest\\overTest.csproj|solutionrelative:overtest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07EABAB0-D6C9-4C35-8260-D1D5E691B537}|overTest\\overTest.csproj|c:\\kjh\\csharpdeepening\\overtest\\overtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07EABAB0-D6C9-4C35-8260-D1D5E691B537}|overTest\\overTest.csproj|solutionrelative:overtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07EABAB0-D6C9-4C35-8260-D1D5E691B537}|overTest\\overTest.csproj|c:\\kjh\\csharpdeepening\\overtest\\overtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{07EABAB0-D6C9-4C35-8260-D1D5E691B537}|overTest\\overTest.csproj|C:\\KJH\\CsharpDeepening\\overTest\\overtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{07EABAB0-D6C9-4C35-8260-D1D5E691B537}|overTest\\overTest.csproj|solutionrelative:overtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,26 +54,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\overTest\\overTest\\Class1.cs",
               "RelativeDocumentMoniker": "overTest\\Class1.cs",
               "ToolTip": "C:\\KJH\\CsharpDeepening\\overTest\\overTest\\Class1.cs",
               "RelativeToolTip": "overTest\\Class1.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAswBcAAAAuAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswB4AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T02:25:58.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\overTest\\overTest\\Form1.cs",
               "RelativeDocumentMoniker": "overTest\\Form1.cs",
               "ToolTip": "C:\\KJH\\CsharpDeepening\\overTest\\overTest\\Form1.cs",
               "RelativeToolTip": "overTest\\Form1.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvxsAAAApAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T02:25:42.645Z",
               "EditorCaption": ""
