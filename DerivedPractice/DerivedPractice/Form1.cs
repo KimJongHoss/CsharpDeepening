@@ -17,7 +17,14 @@ namespace DerivedPractice
             InitializeComponent();
 
             Square suare = new Square();
+            Shape shape = new Shape();
+            
+            
+        }
 
+        public void test()
+        {
+           
         }
     }
 }
