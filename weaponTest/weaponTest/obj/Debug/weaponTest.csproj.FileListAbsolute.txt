@@ -1,0 +1,10 @@
+C:\KJH\CsharpDeepening\weaponTest\weaponTest\bin\Debug\weaponTest.exe.config
+C:\KJH\CsharpDeepening\weaponTest\weaponTest\bin\Debug\weaponTest.exe
+C:\KJH\CsharpDeepening\weaponTest\weaponTest\bin\Debug\weaponTest.pdb
+C:\KJH\CsharpDeepening\weaponTest\weaponTest\obj\Debug\weaponTest.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\weaponTest\weaponTest\obj\Debug\weaponTest.Properties.Resources.resources
+C:\KJH\CsharpDeepening\weaponTest\weaponTest\obj\Debug\weaponTest.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\weaponTest\weaponTest\obj\Debug\weaponTest.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\weaponTest\weaponTest\obj\Debug\weaponTest.exe
+C:\KJH\CsharpDeepening\weaponTest\weaponTest\obj\Debug\weaponTest.pdb
+C:\KJH\CsharpDeepening\weaponTest\weaponTest\obj\Debug\weaponTest.Form1.resources
