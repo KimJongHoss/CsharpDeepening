@@ -1,0 +1,10 @@
+C:\KJH\CsharpDeepening\shapePractice\shapePractice\bin\Debug\shapePractice.exe.config
+C:\KJH\CsharpDeepening\shapePractice\shapePractice\bin\Debug\shapePractice.exe
+C:\KJH\CsharpDeepening\shapePractice\shapePractice\bin\Debug\shapePractice.pdb
+C:\KJH\CsharpDeepening\shapePractice\shapePractice\obj\Debug\shapePractice.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\shapePractice\shapePractice\obj\Debug\shapePractice.Form1.resources
+C:\KJH\CsharpDeepening\shapePractice\shapePractice\obj\Debug\shapePractice.Properties.Resources.resources
+C:\KJH\CsharpDeepening\shapePractice\shapePractice\obj\Debug\shapePractice.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\shapePractice\shapePractice\obj\Debug\shapePractice.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\shapePractice\shapePractice\obj\Debug\shapePractice.exe
+C:\KJH\CsharpDeepening\shapePractice\shapePractice\obj\Debug\shapePractice.pdb
