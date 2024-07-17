@@ -18,8 +18,10 @@ namespace tryCatchTest
 
             try
             {
-                int[] arr = new int[2];
-                arr[4] = 0;
+                //int[] arr = new int[2];
+                //arr[4] = 0;
+                textBox1.Text += "Try 실행 \r\n";
+                throw new Exception("애러 발생!");
             }
             catch (Exception ex)
             {

@@ -1,0 +1,10 @@
+C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\bin\Debug\exceptionPrac.exe.config
+C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\bin\Debug\exceptionPrac.exe
+C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\bin\Debug\exceptionPrac.pdb
+C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\obj\Debug\exceptionPrac.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\obj\Debug\exceptionPrac.Form1.resources
+C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\obj\Debug\exceptionPrac.Properties.Resources.resources
+C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\obj\Debug\exceptionPrac.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\obj\Debug\exceptionPrac.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\obj\Debug\exceptionPrac.exe
+C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\obj\Debug\exceptionPrac.pdb
