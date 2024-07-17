@@ -50,7 +50,7 @@ namespace weaponTest
             //값의 참조1
             int length = 10;
             int[] numbers = new int[length];
-            makeInstance(ref numbers);
+            makeInstance(ref numbers);//배열은 기본적으로 포인터임
 
             textBox1.Text += "ref 사용 : ";
             for (int i = 0; i < length; i++) 
