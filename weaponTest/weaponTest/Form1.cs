@@ -22,7 +22,17 @@ namespace weaponTest
 
             //나이프 전투력 출력
             Knife knife = new Knife();
-            textBox1.Text += "나이프 전투력 : "+ knife.CombatPoint().ToString();
+            textBox1.Text += "나이프 전투력 : "+ knife.CombatPoint().ToString() + "\r\n";
+
+            //라이플 공격력 변경
+            textBox1.Text += "라이플 공격력 변경 후 전투력 : " + rifle.CombatPoint(rifle.setCombatPoint(10)) + "\r\n";
+            textBox1.Text += "라이플 공격력, 공격 속도 변경 후 전투력 : " + rifle.CombatPoint(rifle.setCombatPoint(10, 20)) + "\r\n";
+            textBox1.Text += "라이플 공격력, 공격 속도, 장탄 수 변경 후 전투력 : " + rifle.CombatPoint(rifle.setCombatPoint(10, 20, 30)) + "\r\n";
+
+            //나이프 공격력 변경
+            textBox1.Text += "나이프 공격력 변경 후 전투력 : " + knife.CombatPoint(knife.setCombatPoint(10)) + "\r\n";
+            textBox1.Text += "나이프 공격력, 공격 속도 변경 후 전투력 : " + knife.CombatPoint(knife.setCombatPoint(10, 20)) + "\r\n";
+            textBox1.Text += "나이프 공격력, 공격 속도, 장탄 수 변경 후 전투력 : " + knife.CombatPoint(knife.setCombatPoint(100, 100, 100)) + "\r\n";
 
         }
 

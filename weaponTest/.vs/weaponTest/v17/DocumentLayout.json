@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\KJH\\CsharpDeepening\\weaponTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F678E56-B6CE-4C2D-9BD2-544DE6A1C73E}|weaponTest\\weaponTest.csproj|C:\\KJH\\CsharpDeepening\\weaponTest\\weapontest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F678E56-B6CE-4C2D-9BD2-544DE6A1C73E}|weaponTest\\weaponTest.csproj|solutionrelative:weapontest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F678E56-B6CE-4C2D-9BD2-544DE6A1C73E}|weaponTest\\weaponTest.csproj|c:\\kjh\\csharpdeepening\\weapontest\\weapontest\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F678E56-B6CE-4C2D-9BD2-544DE6A1C73E}|weaponTest\\weaponTest.csproj|solutionrelative:weapontest\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F678E56-B6CE-4C2D-9BD2-544DE6A1C73E}|weaponTest\\weaponTest.csproj|c:\\kjh\\csharpdeepening\\weapontest\\weapontest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F678E56-B6CE-4C2D-9BD2-544DE6A1C73E}|weaponTest\\weaponTest.csproj|solutionrelative:weapontest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F678E56-B6CE-4C2D-9BD2-544DE6A1C73E}|weaponTest\\weaponTest.csproj|c:\\kjh\\csharpdeepening\\weapontest\\weapontest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0F678E56-B6CE-4C2D-9BD2-544DE6A1C73E}|weaponTest\\weaponTest.csproj|C:\\KJH\\CsharpDeepening\\weaponTest\\weapontest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0F678E56-B6CE-4C2D-9BD2-544DE6A1C73E}|weaponTest\\weaponTest.csproj|solutionrelative:weapontest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,26 +54,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "weapon.cs",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\weaponTest\\weaponTest\\weapon.cs",
               "RelativeDocumentMoniker": "weaponTest\\weapon.cs",
               "ToolTip": "C:\\KJH\\CsharpDeepening\\weaponTest\\weaponTest\\weapon.cs",
               "RelativeToolTip": "weaponTest\\weapon.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAgwGEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T00:38:49.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\weaponTest\\weaponTest\\Form1.cs",
               "RelativeDocumentMoniker": "weaponTest\\Form1.cs",
               "ToolTip": "C:\\KJH\\CsharpDeepening\\weaponTest\\weaponTest\\Form1.cs",
               "RelativeToolTip": "weaponTest\\Form1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAiAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T00:38:33.852Z",
               "EditorCaption": ""

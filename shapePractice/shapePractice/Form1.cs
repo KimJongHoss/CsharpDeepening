@@ -26,7 +26,24 @@ namespace shapePractice
             square square1 = new square();
             square square2 = new square();
             square square3 = new square();
+ 
+            List <shape> shapes = new List<shape>();
+            shapes.Add(new circle());
+            shapes.Add(circle1);
+            shapes.Add(circle2);
+            shapes.Add(triangle);
+            shapes.Add(triangle1);
+            shapes.Add(triangle2);
+            shapes.Add(square);
+            shapes.Add(square1);
+            shapes.Add(square2);
+            shapes.Add(square3);
 
+
+            foreach (shape shape in shapes)
+            {
+                textBox1.Text += shape.getShape();
+            }
             textBox1.Text += square.getShape();
             textBox1.Text += circle.getShape();
             textBox1.Text += square1.getShape();
