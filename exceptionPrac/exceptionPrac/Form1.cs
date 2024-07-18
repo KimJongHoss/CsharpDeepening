@@ -70,15 +70,19 @@ namespace exceptionPrac
                     try
                     {
                         int a = int.Parse(strings[i]); // 숫자 파싱
-                        result += "숫자 : " + a.ToString() + "\r\n";
+                        result += "숫자 : " + a.ToString();
                     }
                     catch (FormatException) // 숫자로 파싱할 수 없는 경우
                     {
-                        result += "문자 : " + strings[i] + "\r\n";
+                        result += "문자 : " + strings[i];
                     }
                     catch (Exception ex) // 그 외의 예외 처리
                     {
                         result += "오류 : " + ex.Message + "\r\n";
+                    }
+                    finally
+                    {
+                        result += "입니다." +"\r\n";
                     }
                 }
             }
