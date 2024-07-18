@@ -63,27 +63,48 @@ namespace exceptionPrac
         void splitNumString(string[] strings)
         {
             string result = null;
-            for (int i = 0; i < strings.Length; i++)
+            //for (int i = 0; i < strings.Length; i++)
+            //{
+            //    if (strings[i] != null)
+            //    {
+            //        try
+            //        {
+            //            int a = int.Parse(strings[i]); // 숫자 파싱
+            //            result += "숫자 : " + a.ToString();
+            //        }
+            //        catch (FormatException) // 숫자로 파싱할 수 없는 경우
+            //        {
+            //            result += "문자 : " + strings[i];
+            //        }
+            //        catch (Exception ex) // 그 외의 예외 처리
+            //        {
+            //            result += "오류 : " + ex.Message + "\r\n";
+            //        }
+            //        finally
+            //        {
+            //            result += "입니다." +"\r\n";
+            //        }
+            //    }
+            //}
+
+            foreach (string s in strings) 
             {
-                if (strings[i] != null)
+                try
                 {
-                    try
-                    {
-                        int a = int.Parse(strings[i]); // 숫자 파싱
-                        result += "숫자 : " + a.ToString();
-                    }
-                    catch (FormatException) // 숫자로 파싱할 수 없는 경우
-                    {
-                        result += "문자 : " + strings[i];
-                    }
-                    catch (Exception ex) // 그 외의 예외 처리
-                    {
-                        result += "오류 : " + ex.Message + "\r\n";
-                    }
-                    finally
-                    {
-                        result += "입니다." +"\r\n";
-                    }
+                    int a = int.Parse(s); // 숫자 파싱
+                    result += "숫자 : " + a.ToString();
+                }
+                catch (FormatException) // 숫자로 파싱할 수 없는 경우
+                {
+                    result += "문자 : " + s;
+                }
+                catch (Exception ex) // 그 외의 예외 처리
+                {
+                    result += "오류 : " + ex.Message + "\r\n";
+                }
+                finally
+                {
+                    result += "입니다." + "\r\n";
                 }
             }
 
