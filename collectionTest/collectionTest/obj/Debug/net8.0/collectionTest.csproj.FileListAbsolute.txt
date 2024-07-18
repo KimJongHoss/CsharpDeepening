@@ -1,0 +1,15 @@
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\bin\Debug\net8.0\collectionTest.exe
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\bin\Debug\net8.0\collectionTest.deps.json
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\bin\Debug\net8.0\collectionTest.runtimeconfig.json
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\bin\Debug\net8.0\collectionTest.dll
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\bin\Debug\net8.0\collectionTest.pdb
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\obj\Debug\net8.0\collectionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\obj\Debug\net8.0\collectionTest.AssemblyInfoInputs.cache
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\obj\Debug\net8.0\collectionTest.AssemblyInfo.cs
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\obj\Debug\net8.0\collectionTest.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\obj\Debug\net8.0\collectionTest.sourcelink.json
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\obj\Debug\net8.0\collectionTest.dll
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\obj\Debug\net8.0\refint\collectionTest.dll
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\obj\Debug\net8.0\collectionTest.pdb
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\obj\Debug\net8.0\collectionTest.genruntimeconfig.cache
+C:\KJH\CsharpDeepening\collectionTest\collectionTest\obj\Debug\net8.0\ref\collectionTest.dll

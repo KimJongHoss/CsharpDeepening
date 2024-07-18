@@ -1,0 +1,10 @@
+C:\KJH\CsharpDeepening\stackTest\stackTest\bin\Debug\stackTest.exe.config
+C:\KJH\CsharpDeepening\stackTest\stackTest\bin\Debug\stackTest.exe
+C:\KJH\CsharpDeepening\stackTest\stackTest\bin\Debug\stackTest.pdb
+C:\KJH\CsharpDeepening\stackTest\stackTest\obj\Debug\stackTest.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\stackTest\stackTest\obj\Debug\stackTest.Form1.resources
+C:\KJH\CsharpDeepening\stackTest\stackTest\obj\Debug\stackTest.Properties.Resources.resources
+C:\KJH\CsharpDeepening\stackTest\stackTest\obj\Debug\stackTest.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\stackTest\stackTest\obj\Debug\stackTest.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\stackTest\stackTest\obj\Debug\stackTest.exe
+C:\KJH\CsharpDeepening\stackTest\stackTest\obj\Debug\stackTest.pdb
