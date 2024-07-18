@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\KJH\\CsharpDeepening\\stackTest\\",
+  "WorkspaceRootPath": "C:\\KJH\\CsharpDeepening\\queueTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA5C104C-6DB4-48EA-BDD7-E40321F1AED2}|stackTest\\stackTest.csproj|c:\\kjh\\csharpdeepening\\stacktest\\stacktest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA5C104C-6DB4-48EA-BDD7-E40321F1AED2}|stackTest\\stackTest.csproj|solutionrelative:stacktest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{113DD316-40AC-4187-8042-D0B001BE9567}|queueTest\\queueTest.csproj|c:\\kjh\\csharpdeepening\\queuetest\\queuetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113DD316-40AC-4187-8042-D0B001BE9567}|queueTest\\queueTest.csproj|solutionrelative:queuetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5C104C-6DB4-48EA-BDD7-E40321F1AED2}|stackTest\\stackTest.csproj|C:\\KJH\\CsharpDeepening\\stackTest\\stacktest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA5C104C-6DB4-48EA-BDD7-E40321F1AED2}|stackTest\\stackTest.csproj|solutionrelative:stacktest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{113DD316-40AC-4187-8042-D0B001BE9567}|queueTest\\queueTest.csproj|c:\\kjh\\csharpdeepening\\queuetest\\queuetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{113DD316-40AC-4187-8042-D0B001BE9567}|queueTest\\queueTest.csproj|solutionrelative:queuetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,25 +52,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\stackTest\\stackTest\\Form1.cs",
-              "RelativeDocumentMoniker": "stackTest\\Form1.cs",
-              "ToolTip": "C:\\KJH\\CsharpDeepening\\stackTest\\stackTest\\Form1.cs",
-              "RelativeToolTip": "stackTest\\Form1.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAswEIAAAAAAAAA",
+              "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\queueTest\\queueTest\\Form1.cs",
+              "RelativeDocumentMoniker": "queueTest\\Form1.cs",
+              "ToolTip": "C:\\KJH\\CsharpDeepening\\queueTest\\queueTest\\Form1.cs",
+              "RelativeToolTip": "queueTest\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T03:26:33.875Z",
+              "WhenOpened": "2024-07-18T04:31:22.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\stackTest\\stackTest\\Form1.cs",
-              "RelativeDocumentMoniker": "stackTest\\Form1.cs",
-              "ToolTip": "C:\\KJH\\CsharpDeepening\\stackTest\\stackTest\\Form1.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "stackTest\\Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\queueTest\\queueTest\\Form1.cs",
+              "RelativeDocumentMoniker": "queueTest\\Form1.cs",
+              "ToolTip": "C:\\KJH\\CsharpDeepening\\queueTest\\queueTest\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "queueTest\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T03:26:12.98Z"
+              "WhenOpened": "2024-07-18T04:31:07.456Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
         }

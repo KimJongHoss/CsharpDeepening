@@ -1,0 +1,10 @@
+C:\KJH\CsharpDeepening\queueTest\queueTest\bin\Debug\queueTest.exe.config
+C:\KJH\CsharpDeepening\queueTest\queueTest\bin\Debug\queueTest.exe
+C:\KJH\CsharpDeepening\queueTest\queueTest\bin\Debug\queueTest.pdb
+C:\KJH\CsharpDeepening\queueTest\queueTest\obj\Debug\queueTest.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\queueTest\queueTest\obj\Debug\queueTest.Form1.resources
+C:\KJH\CsharpDeepening\queueTest\queueTest\obj\Debug\queueTest.Properties.Resources.resources
+C:\KJH\CsharpDeepening\queueTest\queueTest\obj\Debug\queueTest.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\queueTest\queueTest\obj\Debug\queueTest.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\queueTest\queueTest\obj\Debug\queueTest.exe
+C:\KJH\CsharpDeepening\queueTest\queueTest\obj\Debug\queueTest.pdb
