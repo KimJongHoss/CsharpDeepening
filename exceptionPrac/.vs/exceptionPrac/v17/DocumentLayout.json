@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{672C4AA4-BB07-45DF-8EB8-16E65F602A71}|exceptionPrac\\exceptionPrac.csproj|solutionrelative:exceptionprac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{672C4AA4-BB07-45DF-8EB8-16E65F602A71}|exceptionPrac\\exceptionPrac.csproj|c:\\kjh\\csharpdeepening\\exceptionprac\\exceptionprac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{672C4AA4-BB07-45DF-8EB8-16E65F602A71}|exceptionPrac\\exceptionPrac.csproj|c:\\kjh\\csharpdeepening\\exceptionprac\\exceptionprac\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{672C4AA4-BB07-45DF-8EB8-16E65F602A71}|exceptionPrac\\exceptionPrac.csproj|solutionrelative:exceptionprac\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672C4AA4-BB07-45DF-8EB8-16E65F602A71}|exceptionPrac\\exceptionPrac.csproj|C:\\KJH\\CsharpDeepening\\exceptionPrac\\exceptionprac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{672C4AA4-BB07-45DF-8EB8-16E65F602A71}|exceptionPrac\\exceptionPrac.csproj|solutionrelative:exceptionprac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,28 +54,40 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.txt",
+              "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\exceptionPrac\\exceptionPrac\\test.txt",
+              "RelativeDocumentMoniker": "exceptionPrac\\test.txt",
+              "ToolTip": "C:\\KJH\\CsharpDeepening\\exceptionPrac\\exceptionPrac\\test.txt",
+              "RelativeToolTip": "exceptionPrac\\test.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-18T00:16:45.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\exceptionPrac\\exceptionPrac\\Form1.cs",
               "RelativeDocumentMoniker": "exceptionPrac\\Form1.cs",
               "ToolTip": "C:\\KJH\\CsharpDeepening\\exceptionPrac\\exceptionPrac\\Form1.cs",
               "RelativeToolTip": "exceptionPrac\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAlAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T04:43:37.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\exceptionPrac\\exceptionPrac\\Form1.cs",
               "RelativeDocumentMoniker": "exceptionPrac\\Form1.cs",
               "ToolTip": "C:\\KJH\\CsharpDeepening\\exceptionPrac\\exceptionPrac\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "exceptionPrac\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T04:43:19.563Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2024-07-17T04:43:19.563Z"
             }
           ]
         }

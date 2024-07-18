@@ -8,3 +8,4 @@ C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\obj\Debug\exceptionPrac.cspro
 C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\obj\Debug\exceptionPrac.csproj.CoreCompileInputs.cache
 C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\obj\Debug\exceptionPrac.exe
 C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\obj\Debug\exceptionPrac.pdb
+C:\KJH\CsharpDeepening\exceptionPrac\exceptionPrac\bin\Debug\test.txt
