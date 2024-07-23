@@ -1,0 +1,10 @@
+C:\KJH\CsharpDeepening\eventTest\eventTest\bin\Debug\eventTest.exe.config
+C:\KJH\CsharpDeepening\eventTest\eventTest\bin\Debug\eventTest.exe
+C:\KJH\CsharpDeepening\eventTest\eventTest\bin\Debug\eventTest.pdb
+C:\KJH\CsharpDeepening\eventTest\eventTest\obj\Debug\eventTest.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\eventTest\eventTest\obj\Debug\eventTest.Form1.resources
+C:\KJH\CsharpDeepening\eventTest\eventTest\obj\Debug\eventTest.Properties.Resources.resources
+C:\KJH\CsharpDeepening\eventTest\eventTest\obj\Debug\eventTest.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\eventTest\eventTest\obj\Debug\eventTest.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\eventTest\eventTest\obj\Debug\eventTest.exe
+C:\KJH\CsharpDeepening\eventTest\eventTest\obj\Debug\eventTest.pdb

@@ -1,0 +1,10 @@
+C:\KJH\CsharpDeepening\delegateTest\delegateTest\bin\Debug\delegateTest.exe.config
+C:\KJH\CsharpDeepening\delegateTest\delegateTest\bin\Debug\delegateTest.exe
+C:\KJH\CsharpDeepening\delegateTest\delegateTest\bin\Debug\delegateTest.pdb
+C:\KJH\CsharpDeepening\delegateTest\delegateTest\obj\Debug\delegateTest.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\delegateTest\delegateTest\obj\Debug\delegateTest.Form1.resources
+C:\KJH\CsharpDeepening\delegateTest\delegateTest\obj\Debug\delegateTest.Properties.Resources.resources
+C:\KJH\CsharpDeepening\delegateTest\delegateTest\obj\Debug\delegateTest.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\delegateTest\delegateTest\obj\Debug\delegateTest.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\delegateTest\delegateTest\obj\Debug\delegateTest.exe
+C:\KJH\CsharpDeepening\delegateTest\delegateTest\obj\Debug\delegateTest.pdb
