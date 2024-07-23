@@ -1,0 +1,10 @@
+C:\KJH\CsharpDeepening\multiThreadRace\multiThreadRace\bin\Debug\multiThreadRace.exe.config
+C:\KJH\CsharpDeepening\multiThreadRace\multiThreadRace\bin\Debug\multiThreadRace.exe
+C:\KJH\CsharpDeepening\multiThreadRace\multiThreadRace\bin\Debug\multiThreadRace.pdb
+C:\KJH\CsharpDeepening\multiThreadRace\multiThreadRace\obj\Debug\multiThreadRace.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\multiThreadRace\multiThreadRace\obj\Debug\multiThreadRace.Form1.resources
+C:\KJH\CsharpDeepening\multiThreadRace\multiThreadRace\obj\Debug\multiThreadRace.Properties.Resources.resources
+C:\KJH\CsharpDeepening\multiThreadRace\multiThreadRace\obj\Debug\multiThreadRace.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\multiThreadRace\multiThreadRace\obj\Debug\multiThreadRace.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\multiThreadRace\multiThreadRace\obj\Debug\multiThreadRace.exe
+C:\KJH\CsharpDeepening\multiThreadRace\multiThreadRace\obj\Debug\multiThreadRace.pdb

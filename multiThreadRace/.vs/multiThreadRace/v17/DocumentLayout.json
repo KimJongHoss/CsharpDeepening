@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{D21E214D-EAF9-427C-A715-453F7E84C3F0}|multiThreadRace\\multiThreadRace.csproj|solutionrelative:multithreadrace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E214D-EAF9-427C-A715-453F7E84C3F0}|multiThreadRace\\multiThreadRace.csproj|c:\\kjh\\csharpdeepening\\multithreadrace\\multithreadrace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D21E214D-EAF9-427C-A715-453F7E84C3F0}|multiThreadRace\\multiThreadRace.csproj|C:\\KJH\\CsharpDeepening\\multiThreadRace\\multithreadrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21E214D-EAF9-427C-A715-453F7E84C3F0}|multiThreadRace\\multiThreadRace.csproj|solutionrelative:multithreadrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E214D-EAF9-427C-A715-453F7E84C3F0}|multiThreadRace\\multiThreadRace.csproj|C:\\KJH\\CsharpDeepening\\multiThreadRace\\multithreadrace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D21E214D-EAF9-427C-A715-453F7E84C3F0}|multiThreadRace\\multiThreadRace.csproj|solutionrelative:multithreadrace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,28 +54,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\multiThreadRace\\multiThreadRace\\Program.cs",
+              "RelativeDocumentMoniker": "multiThreadRace\\Program.cs",
+              "ToolTip": "C:\\KJH\\CsharpDeepening\\multiThreadRace\\multiThreadRace\\Program.cs",
+              "RelativeToolTip": "multiThreadRace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:21:49.522Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\multiThreadRace\\multiThreadRace\\Form1.cs",
               "RelativeDocumentMoniker": "multiThreadRace\\Form1.cs",
               "ToolTip": "C:\\KJH\\CsharpDeepening\\multiThreadRace\\multiThreadRace\\Form1.cs",
               "RelativeToolTip": "multiThreadRace\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAlAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwFUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T01:41:16.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\KJH\\CsharpDeepening\\multiThreadRace\\multiThreadRace\\Form1.cs",
               "RelativeDocumentMoniker": "multiThreadRace\\Form1.cs",
               "ToolTip": "C:\\KJH\\CsharpDeepening\\multiThreadRace\\multiThreadRace\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "multiThreadRace\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T01:40:51.016Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2024-07-22T01:40:51.016Z"
             }
           ]
         }
