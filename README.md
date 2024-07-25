@@ -15,4 +15,4 @@
  12) threadTest : thread 관련 예제입니다.
  13) multiThreadRace : thread 관련 실습 문제입니다.
  14) delegateTest : delegate 관련 예제입니다.
- 15) eventTest : event 관련 에제입니다.
+ 15) eventTest : event 관련 예제입니다.
