@@ -1,0 +1,10 @@
+C:\KJH\CsharpDeepening\genericTest\genericTest\bin\Debug\genericTest.exe.config
+C:\KJH\CsharpDeepening\genericTest\genericTest\bin\Debug\genericTest.exe
+C:\KJH\CsharpDeepening\genericTest\genericTest\bin\Debug\genericTest.pdb
+C:\KJH\CsharpDeepening\genericTest\genericTest\obj\Debug\genericTest.csproj.AssemblyReference.cache
+C:\KJH\CsharpDeepening\genericTest\genericTest\obj\Debug\genericTest.Form1.resources
+C:\KJH\CsharpDeepening\genericTest\genericTest\obj\Debug\genericTest.Properties.Resources.resources
+C:\KJH\CsharpDeepening\genericTest\genericTest\obj\Debug\genericTest.csproj.GenerateResource.cache
+C:\KJH\CsharpDeepening\genericTest\genericTest\obj\Debug\genericTest.csproj.CoreCompileInputs.cache
+C:\KJH\CsharpDeepening\genericTest\genericTest\obj\Debug\genericTest.exe
+C:\KJH\CsharpDeepening\genericTest\genericTest\obj\Debug\genericTest.pdb

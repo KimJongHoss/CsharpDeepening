@@ -23,9 +23,7 @@ namespace exceptionPrac
             string[] strings;
             getArray(out content, out strings);
             splitNumString(strings);
-            //textBox1.Text = content;
-
-            string a = "\""; //\뒤에 있는 "는 실제 문자 "임을 나타냄 \:탈출문자
+        
         }
 
         void getArray(out string content, out string[] strings) // 파일 경로를 입력받으면 결과를 배열로 반환하는 메소드
@@ -63,29 +61,6 @@ namespace exceptionPrac
         void splitNumString(string[] strings)
         {
             string result = null;
-            //for (int i = 0; i < strings.Length; i++)
-            //{
-            //    if (strings[i] != null)
-            //    {
-            //        try
-            //        {
-            //            int a = int.Parse(strings[i]); // 숫자 파싱
-            //            result += "숫자 : " + a.ToString();
-            //        }
-            //        catch (FormatException) // 숫자로 파싱할 수 없는 경우
-            //        {
-            //            result += "문자 : " + strings[i];
-            //        }
-            //        catch (Exception ex) // 그 외의 예외 처리
-            //        {
-            //            result += "오류 : " + ex.Message + "\r\n";
-            //        }
-            //        finally
-            //        {
-            //            result += "입니다." +"\r\n";
-            //        }
-            //    }
-            //}
 
             foreach (string s in strings) 
             {
