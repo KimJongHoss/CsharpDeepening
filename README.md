@@ -11,7 +11,8 @@
  8) exceptionPrac : 예외처리 관련 실습입니다.
  9) stackTest : stack 관련 예제 및 실습입니다.
  10) queueTest : queue 관련 예제입니다.
- 11) threadTest : thread 관련 예제입니다.
- 12) multiThreadRace : thread 관련 실습 문제입니다.
- 13) delegateTest : delegate 관련 예제입니다.
- 14) eventTest : event 관련 에제입니다.
+ 11) genericTest : 제네릭 컬렉션 관련 예제입니다.
+ 12) threadTest : thread 관련 예제입니다.
+ 13) multiThreadRace : thread 관련 실습 문제입니다.
+ 14) delegateTest : delegate 관련 예제입니다.
+ 15) eventTest : event 관련 에제입니다.
